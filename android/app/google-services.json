@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "105258437193",
+    "firebase_url": "https://inline-bb242.firebaseio.com",
+    "project_id": "inline-bb242",
+    "storage_bucket": "inline-bb242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105258437193:android:3193b9cc04b05b01e8cd98",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105258437193-kiqn166khqdip6bvet0kngbo8bnr7nsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdn8VLVNWekMhji_wp36pCLaB42xbC2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105258437193-kiqn166khqdip6bvet0kngbo8bnr7nsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105258437193:android:00f4e5871ff180dde8cd98",
+        "android_client_info": {
+          "package_name": "com.flutter.inline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105258437193-5i2apt2fvtdckd3oqr46d0ehvpdeivcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.inline",
+            "certificate_hash": "c58ff009ecdc0af781511ee7c41c6aaf1ea487d2"
+          }
+        },
+        {
+          "client_id": "105258437193-kiqn166khqdip6bvet0kngbo8bnr7nsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdn8VLVNWekMhji_wp36pCLaB42xbC2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105258437193-kiqn166khqdip6bvet0kngbo8bnr7nsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
